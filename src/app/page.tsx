@@ -51,7 +51,7 @@ export default function Home() {
               ]}
               wrapper="span"
               speed={50}
-              className="text-xl sm:text-sm md:text-3xl font-serif md:h-20 h-20"
+              className="text-xl sm:text-sm md:text-3xl font-serif md:h-20 h-10"
               repeat={Infinity}
             />
 
