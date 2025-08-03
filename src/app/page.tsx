@@ -42,7 +42,7 @@ export default function Home() {
             />
 
             {/* Type Animation */}
-            {/* <TypeAnimation
+            <TypeAnimation
               sequence={[
                 "I'm Harshala Ubhare a Software Developer",
                 1000,
@@ -53,7 +53,7 @@ export default function Home() {
               speed={50}
               className="text-xl sm:text-sm md:text-3xl font-serif md:h-20 h-20"
               repeat={Infinity}
-            /> */}
+            />
 
             <div className="w-[80%] mx-auto border-t border-[rgba(255,255,255,0.17)]"></div>
 
