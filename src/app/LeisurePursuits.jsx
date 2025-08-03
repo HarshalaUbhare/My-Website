@@ -21,7 +21,7 @@ const LeisurePursuits = () => {
             </span>
             <span className="text-sm text-gray-400">August 2024 – Present</span>
 
-            <ul className="list-disc list-outside mt-3 text-sm text-gray-100 space-y-1">
+            <ul className="list-disc list-outside mt-3 text-sm text-gray-100 space-y-1 ml-2">
               <li>
                 Support RHA’s zero-fund model by helping distribute food to
                 underprivileged communities.
@@ -65,7 +65,7 @@ const LeisurePursuits = () => {
               @harshuzz_art on Instagram
             </a>
 
-            <ul className="list-disc list-outside mt-3 text-sm text-gray-100 space-y-1">
+            <ul className="list-disc list-outside mt-3 text-sm text-gray-100 space-y-1 ml-2">
               <li>
                 Create and share original canvas paintings, mandala artwork, and
                 fine-line sketching.

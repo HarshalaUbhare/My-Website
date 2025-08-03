@@ -48,7 +48,7 @@ const ChromaGrid = ({
       subtitle: "Data Scientist",
       borderColor: "#EF4444",
       gradient: "linear-gradient(195deg,#EF4444,#000)",
-      url: "https://harshalaubhare.github.io/harshala.github.io/",
+      url: "https://harshala.vercel.app/",
     },
     {
       image: "/project22.png",
